@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.navbar {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    max-width:1000% ;
+    background-color: rgb(31, 31, 59);
+    height: 100px;
+    padding:7px 2%;
+    position: relative;
+}
+
+.logo {
+    height: 70px;
+    width:auto;
+    cursor: pointer;
+    transition: all 0.4;
+}
+
+.logo:hover{
+    transform: scale(1.2);
+}
+.toggle{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ul ul{
+    display: inline-block;
+    padding:0 20px;
+}
+
+.link {
+    height: 30px;
+    width:auto;
+}
+
+.link:hover{
+    transform: scale(1.2);
+}
+
+.LKD{
+    height: 40px;
+    width:auto;
+
+}
+.LKD:hover{
+    transform: scale(1.2);
+}

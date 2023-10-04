@@ -1,0 +1,9 @@
+.GoUp {
+    height: 60px;
+    width:auto;
+    cursor: pointer;
+    transition: all 0.4;
+}
+.GoUp:hover{
+    transform: scale(1.2)
+}

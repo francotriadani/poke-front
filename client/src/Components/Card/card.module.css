@@ -1,0 +1,14 @@
+.card{
+    border: 2px solid rgba(0, 0, 0, 0.26);
+}
+.imagen{
+    height: 300px;
+    width: auto;
+}
+.name{
+    font-size: 110%;
+}
+.tipe{
+    font-size: 60%;
+    align-items: center;
+}

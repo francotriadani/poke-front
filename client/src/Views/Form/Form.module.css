@@ -1,0 +1,18 @@
+.formulario {
+    display: grid;
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Centra verticalmente el contenido */
+    gap: 2px;
+}
+
+.placeholder{
+    font-size: 15px !important ;
+    width: 100%;
+}
+.error{
+    font-size:x-small;
+    color: red;
+}
+input::placeholder{
+    text-align: center;
+}
